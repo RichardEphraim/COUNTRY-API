@@ -42,13 +42,13 @@ body{
 
 
 .box-img img:hover {
-    width:380px;
+    width:400px;
 }
 
 
 .box-img img{
     width:300px;
-    transition: 0.50s;  
+    transition: 1s;  
 }
 
 
@@ -64,7 +64,7 @@ body{
 .phone-content h1{
     font-size: 13px;
     text-transform: uppercase;
-    color: green;
+    color: orange;
     text-align: center;
 }
 
